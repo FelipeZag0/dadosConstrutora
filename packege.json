@@ -1,0 +1,33 @@
+{
+  "Construtora": {
+    "Código": 10,
+    "Nome": "Construtora Alfa S.A.",
+    "Nome_fantasia": "Alfa Incorporações",
+    "Telefones": ["(51) 3333-3334", "(51) 3333-3335", "(51) 3333-3336"],
+    "Obras": [
+      {
+        "Código": 115,
+        "Nome": "Condomínio dos Lagos",
+        "Logradouro": "Travessa dos Lagos",
+        "Número": 100,
+        "Complemento": "Norte",
+        "Trabalhadores": [
+          {"Código": "101.101.101-34", "Nome": "José Chaves", "Salário": 2200.00},
+          {"Código": "102.102.102-91", "Nome": "Pedro Passos", "Salário": 3502.18},
+          {"Código": "103.103.103-18", "Nome": "Maria Aparecida", "Salário": 2800.87}
+        ]
+      },
+      {
+        "Código": 116,
+        "Nome": "Condomínio Araras",
+        "Logradouro": "Avenida Rio Grande",
+        "Número": 22,
+        "Complemento": "Lado A",
+        "Trabalhadores": [
+          {"Código": "104.104.104-52", "Nome": "Carlos Dutra", "Salário": 3100.00},
+          {"Código": "105.105.105-85", "Nome": "Mário Pires", "Salário": 4323.29}
+        ]
+      }
+    ]
+  }
+}
