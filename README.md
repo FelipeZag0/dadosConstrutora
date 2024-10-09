@@ -42,10 +42,6 @@ Este arquivo contém exemplos de consultas SQL úteis para extrair informações
 ### População Inicial de Dados
 - O projeto inclui um conjunto de dados de exemplo para popular as tabelas criadas, facilitando a visualização e a execução de consultas sobre dados reais.
 
-## Melhorias Sugeridas
-- **Tabela Telefones**: A estrutura desta tabela pode ser melhorada para que tenha uma relação mais clara com a tabela de **Construtora**, utilizando uma chave estrangeira adequada.
-- **Normalização**: O banco de dados pode ser otimizado com a aplicação de técnicas de normalização, eliminando redundâncias e otimizando a estrutura das tabelas.
-
 ## Como Utilizar
 1. Execute o script `criacaoDeTabelas.sql` para criar as tabelas no banco de dados.
 2. Popule as tabelas utilizando o script `populacaoDetabelas.sql`.
